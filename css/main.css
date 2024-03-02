@@ -1,0 +1,52 @@
+img{
+    width: 100px;
+   
+}
+nav{
+    display: flex;
+    padding: 25px;
+    border-bottom: 1px solid grey;
+}
+ul{
+    position:absolute;
+    right: 10px;
+    top:0px;
+    list-style-type: none;
+
+}
+.encuesta{
+    display: flex;
+    flex-direction: column;
+    
+}
+button{
+    background-color: blue;
+}
+main{
+    margin-left: 100px;
+}
+form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.buttonR{
+    border-radius: 40%;
+    padding: 10px;
+    background-color: white;
+    border: 1px dashed gray;
+    color: gray;
+}
+
+footer{
+    display: flex;
+    margin-top: 50px;
+    border-top: 1px solid gray;
+
+}
+.one{
+    margin-left: 100px;
+}
+a{
+    color: cornflowerblue;
+    text-decoration: none;
+}
